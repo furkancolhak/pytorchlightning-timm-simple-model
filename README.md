@@ -12,12 +12,12 @@ The model was developed using **PyTorch Lightning**, which provides a lightweigh
 - **Transfer Learning**: The model is designed with transfer learning principles, allowing rapid adaptation to the phishing detection task.
 
 
-##Citation
+## Citation
 If you use this model or code in your research, please cite the following paper:
 
 Transfer Learning for Phishing Detection: Screenshot-Based Website Classification
 (In review)
 
 
-###Contact
+### Contact
 For any questions or inquiries, please contact furkancolhak@stu.khas.edu.tr
