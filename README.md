@@ -15,8 +15,7 @@ The model was developed using **PyTorch Lightning**, which provides a lightweigh
 ## Citation
 If you use this model or code in your research, please cite the following paper:
 
-Transfer Learning for Phishing Detection: Screenshot-Based Website Classification
-(In review)
+F. Çolhak, M. İ. Ecevit and H. Dağ, "Transfer Learning for Phishing Detection: Screenshot-Based Website Classification," 2024 9th International Conference on Computer Science and Engineering (UBMK), Antalya, Turkiye, 2024, pp. 1-6, doi: 10.1109/UBMK63289.2024.10773490.
 
 
 ### Contact
