@@ -471,7 +471,6 @@ hostingerapp.com
 sitey.me
 youdao.com
 crimsonhexagon.com
-microsoft.com
 blogspot.se
 beeketing.com
 msecnd.net
@@ -981,3 +980,4 @@ amazon-adsystem.com
 clickzzs.nl
 filesor.com
 itempurl.com
+
